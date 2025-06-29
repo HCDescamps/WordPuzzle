@@ -1,2 +1,2 @@
 # WordPuzzle
-Generate word puzzles for playful learning activity for young children
+Create fun word puzzles to support early childhood learning
